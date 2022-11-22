@@ -83,6 +83,7 @@ const config = {
             label: 'Wiki',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/projects', label: 'Projects', position: 'left'},
           {
             href: 'https://github.com/sinchang/wiki',
             label: 'GitHub',
@@ -108,6 +109,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Projects',
+                to: '/projects',
               },
               {
                 label: 'GitHub',
