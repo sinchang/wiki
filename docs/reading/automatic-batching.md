@@ -23,13 +23,13 @@ function App() {
 
 ### React 17
 
-handleClick 是同步操作： render 一次
-handleClick 是异步操作： render 两次
+- handleClick 是同步操作： render 一次
+- handleClick 是异步操作： render 两次
 
 ### React 18
 
-handleClick 是同步操作： render 一次
-handleClick 是异步操作： render 一次
+- handleClick 是同步操作： render 一次
+- handleClick 是异步操作： render 一次
 
 如果不想要 patching 的行为，可以使用 `ReactDOM.flushSync()`。
 
