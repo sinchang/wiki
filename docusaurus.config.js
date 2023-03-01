@@ -70,6 +70,7 @@ const config = {
         language: ["en", "zh"],
       }),
     ],
+    '@docusaurus/theme-live-codeblock'
   ],
 
   themeConfig:
