@@ -45,7 +45,8 @@ const config = {
           editUrl:
             'https://github.com/sinchang/wiki/blob/master/',
           showLastUpdateAuthor: true,
-          showLastUpdateTime: true
+          showLastUpdateTime: true,
+          routeBasePath: '/',
         },
         blog: {
           showReadingTime: true,
@@ -100,34 +101,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Wiki',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'Projects',
-                to: '/projects',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/sinchang/wiki',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Jeff Wen. Built with Docusaurus.`,
       },
       prism: {
