@@ -2,7 +2,7 @@
 
 ## 创建立即执行函数表达式
 
-```
+```js
 let person = ((name) => {
   return {
     getName: function() {
