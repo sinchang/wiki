@@ -1,3 +1,4 @@
+// import type { Plugin } from '@docusaurus/types'
 const path = require('path')
 
 function theme() {

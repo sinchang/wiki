@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-```jsx live
+```jsx sandpack
 import { useState } from 'react'
 export default function App() {
   const [count, setCount] = useState(0)
