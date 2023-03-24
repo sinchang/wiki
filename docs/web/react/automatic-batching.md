@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-```jsx
+```jsx live
 function App() {
   const [count, setCount] = useState(0)
   const [flag, setFlag] = useState(false)
