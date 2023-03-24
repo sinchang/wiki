@@ -3,7 +3,8 @@
 ## TL;DR
 
 ```jsx live
-function App() {
+import { useState } from 'react'
+export default function App() {
   const [count, setCount] = useState(0)
   const [flag, setFlag] = useState(false)
 

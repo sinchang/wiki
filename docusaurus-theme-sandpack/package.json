@@ -1,0 +1,4 @@
+{
+  "name": "docusaurus-theme-sandpack",
+  "main": "./src/index.js"
+}
