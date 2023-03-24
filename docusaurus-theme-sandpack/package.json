@@ -1,0 +1,5 @@
+{
+  "name": "docusaurus-theme-sandpack",
+  "main": "./src/index.ts",
+  "types": "src/theme-sandpack.d.ts"
+}

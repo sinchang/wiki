@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/github')
+const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -27,11 +27,13 @@ const config = {
     locales: ['en'],
   },
 
-  scripts: [{
-    src: 'https://umami-production-af5b.up.railway.app/umami.js',
-    defer: true,
-    'data-website-id': '748f8a71-7987-44ad-93cf-ab577e561cd3'
-  }],
+  scripts: [
+    {
+      src: 'https://umami-production-af5b.up.railway.app/umami.js',
+      defer: true,
+      'data-website-id': '748f8a71-7987-44ad-93cf-ab577e561cd3',
+    },
+  ],
 
   presets: [
     [
@@ -42,8 +44,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sinchang/wiki/blob/master/',
+          editUrl: 'https://github.com/sinchang/wiki/blob/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           routeBasePath: '/',
@@ -52,11 +53,10 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sinchang/wiki/blob/master/',
+          editUrl: 'https://github.com/sinchang/wiki/blob/master/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [require.resolve('./src/css/custom.css')],
         },
       }),
     ],
@@ -64,14 +64,14 @@ const config = {
 
   themes: [
     [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
+      require.resolve('@easyops-cn/docusaurus-search-local'),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         hashed: true,
-        language: ["en", "zh"],
+        language: ['en', 'zh'],
       }),
     ],
-    '@docusaurus/theme-live-codeblock'
+     './docusaurus-theme-sandpack'
   ],
 
   themeConfig:
@@ -90,9 +90,13 @@ const config = {
             position: 'left',
             label: 'Wiki',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/projects', label: 'Projects', position: 'left'},
-          {href: 'https://github.com/sinchang/my-contributions', label: 'Open Source Contributions', position: 'right'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/projects', label: 'Projects', position: 'left' },
+          {
+            href: 'https://github.com/sinchang/my-contributions',
+            label: 'Open Source Contributions',
+            position: 'right',
+          },
           {
             href: 'https://github.com/sinchang/wiki',
             label: 'GitHub',
@@ -109,6 +113,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
+}
 
-module.exports = config;
+module.exports = config

@@ -15,6 +15,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@codesandbox/sandpack-react": "^2.1.11",
     "@docusaurus/core": "2.4.0",
     "@docusaurus/preset-classic": "2.4.0",
     "@docusaurus/theme-live-codeblock": "^2.4.0",
