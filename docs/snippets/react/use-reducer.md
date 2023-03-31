@@ -1,6 +1,6 @@
 # useReducer
 
-```
+```js
 import { useCallback, useState } from "react";
 
 function useReducer(reducer, initialState) {
@@ -12,7 +12,7 @@ function useReducer(reducer, initialState) {
 
       setState(nextState);
     },
-    [setState, reducer, state]
+    [reducer, state]
   );
 
   return [state, dispatch];
