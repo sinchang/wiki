@@ -1304,9 +1304,9 @@
     static-browser-server "1.0.3"
 
 "@codesandbox/sandpack-react@^2.1.11":
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.2.4.tgz#7e8cf33adb58f3e6c15822b7982ae56775665cf2"
-  integrity sha512-LEh4EsLIJJdATuxW0ZaL2kSap+2ppTn5g+DAOWIwBT/ct78G694vAeywMwtWbFhBvCKL5U6wQrSQWty2bg/PUg==
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.2.5.tgz#a9f22639720de5ae09ceaa8dd7b7f31baca57950"
+  integrity sha512-/o51mDKmbPhzy2AZTtpOBcBN0EAmYO72/lMhGKYqNoioBLTCtqCddoG02do9yk6GKSOxX9ZmP8cRAV6xwBKg8g==
   dependencies:
     "@code-hike/classer" "^0.0.0-aa6efee"
     "@codemirror/autocomplete" "^6.4.0"
