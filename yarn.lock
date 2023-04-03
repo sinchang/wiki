@@ -1292,10 +1292,10 @@
     outvariant "^1.3.0"
     strict-event-emitter "^0.4.3"
 
-"@codesandbox/sandpack-client@^2.2.4":
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-client/-/sandpack-client-2.2.4.tgz#12164caf44a06abddcbcb9fac11569539542399b"
-  integrity sha512-MYEHaD9qeXTtJVQ/NpEGz2dMRPHqJJNK1757PdNneurk3LprmpNrExZNlUgPH27xHrmKIqjVR8m32e2YlDjAbg==
+"@codesandbox/sandpack-client@^2.2.9":
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-client/-/sandpack-client-2.2.9.tgz#d1d04633ce74a1f9ca9dc75ccb813e617110e1f0"
+  integrity sha512-Vea9dSBazKFNVhzUyvSU3/EZFyegPN4mY1WrqjjbNK2Eui1A2iZdwC3pjCs1yhi9r6/mJgl+9DJFO3koIR1N5A==
   dependencies:
     "@codesandbox/nodebox" "0.1.4"
     buffer "^6.0.3"
@@ -1304,9 +1304,9 @@
     static-browser-server "1.0.3"
 
 "@codesandbox/sandpack-react@^2.1.11":
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.2.5.tgz#a9f22639720de5ae09ceaa8dd7b7f31baca57950"
-  integrity sha512-/o51mDKmbPhzy2AZTtpOBcBN0EAmYO72/lMhGKYqNoioBLTCtqCddoG02do9yk6GKSOxX9ZmP8cRAV6xwBKg8g==
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.2.9.tgz#aa0ef716f12259a2c75dcf55ca421dc8338400c7"
+  integrity sha512-NEVJ8zCQhjxgaX7yxyIn6ZS5dUC6sQVUuUqkneahXxSIdj7f1BuBqROf9JWsh6mkL2k0Uj9nXm5zheC+GJkneA==
   dependencies:
     "@code-hike/classer" "^0.0.0-aa6efee"
     "@codemirror/autocomplete" "^6.4.0"
@@ -1317,7 +1317,7 @@
     "@codemirror/language" "^6.3.2"
     "@codemirror/state" "^6.2.0"
     "@codemirror/view" "^6.7.1"
-    "@codesandbox/sandpack-client" "^2.2.4"
+    "@codesandbox/sandpack-client" "^2.2.9"
     "@lezer/highlight" "^1.1.3"
     "@react-hook/intersection-observer" "^3.1.1"
     "@stitches/core" "^1.2.6"
