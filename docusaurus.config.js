@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'My Knowledge Base',
   tagline: 'Take a note day by day',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://wiki.sinchang.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,9 +69,10 @@ const config = {
       ({
         hashed: true,
         language: ['en', 'zh'],
+        docsRouteBasePath: '/',
       }),
     ],
-     './docusaurus-theme-sandpack'
+    './docusaurus-theme-sandpack',
   ],
 
   themeConfig:
