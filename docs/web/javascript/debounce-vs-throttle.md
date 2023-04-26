@@ -1,4 +1,4 @@
-# Debounce vs. Throttle
+# Debounce vs Throttle
 
 Debounce（防抖）和 Throttle（节流）都是用来控制函数执行频率的方法，但是它们的工作方式略有不同。
 

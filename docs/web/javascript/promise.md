@@ -1,4 +1,4 @@
-# Promise 学习
+# Promise
 
 - [【Promise 源码学习】第一篇 - Promise 简介](https://xie.infoq.cn/article/f5d5636279df58bfdd2cb1497)
 - [【Promise 源码学习】第二篇 - Promise 功能介绍与特性分析](https://xie.infoq.cn/article/2247c3306a40fdb3d0b1aef01)
