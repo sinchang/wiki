@@ -1,7 +1,5 @@
 # EventEmitter
 
-An event emitter is a pattern that listens to a named event, fires a callback, then emits that event with a value. Sometimes this is referred to as a “pub/sub” model, or listener.
-
 在 JavaScript 中，可以通过自定义实现事件发布订阅来创建一个 EventEmitter。下面是一个基础实现：
 
 ```js
