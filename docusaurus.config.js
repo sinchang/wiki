@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Knowledge Base',
+  title: 'sinchang.wiki',
   tagline: 'Take a note day by day',
   url: 'https://wiki.sinchang.me',
   baseUrl: '/',
@@ -79,7 +79,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Knowledge Base',
+        title: 'sinchang.wiki',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
