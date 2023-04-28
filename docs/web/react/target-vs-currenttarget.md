@@ -4,7 +4,7 @@ target 属性返回触发事件的元素，而 currentTarget 属性则返回当�
 
 举个例子
 
-```jsx sandpack
+```jsx sandpack showConsole
 import { useState } from 'react'
 export default function App() {
   const handleClick = (event) => {
