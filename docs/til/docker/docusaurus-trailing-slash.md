@@ -19,3 +19,28 @@ Load this file as static JS file in docusaurus.config.js:
 ```
 
 ref: https://github.com/facebook/docusaurus/issues/2394#issuecomment-630638096
+
+Another solution to fix this by using busybox
+
+```shell
+FROM node:16 AS build
+WORKDIR /usr/src/app
+COPY package*.json ./
+RUN npm install
+COPY . .
+RUN npm run build
+
+# Deployment step
+
+FROM busybox:1.35 as deploy
+
+RUN adduser -D static
+USER static
+WORKDIR /home/static
+
+COPY --from=build /usr/src/app/build/ ./
+
+EXPOSE 3000
+
+CMD ["busybox", "httpd", "-f", "-v", "-p", "3000"]
+```
