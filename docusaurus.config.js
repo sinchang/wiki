@@ -30,9 +30,9 @@ const config = {
 
   scripts: [
     {
-      src: 'https://umami-production-af5b.up.railway.app/umami.js',
+      src: 'https://umami-sinchang.vercel.app/script.js',
       defer: true,
-      'data-website-id': '748f8a71-7987-44ad-93cf-ab577e561cd3',
+      'data-website-id': 'dbfd5742-8004-4145-976d-82b9235a13ea',
     },
   ],
 
