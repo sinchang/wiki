@@ -1908,9 +1908,9 @@
   integrity sha512-Wmvlm4q6tRpwiy20TnB3yyLTZim38Tkc50dPY8biQRwqE+ati/wD84rm3N15hikvdT4uSg9phs9ubjvcLmkpKg==
 
 "@lezer/css@^1.0.0", "@lezer/css@^1.1.0":
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/@lezer/css/-/css-1.1.5.tgz#700cd47d5db7d588d637627f3997722b9ed62315"
-  integrity sha512-yyJ6WbSFavzpg74N/K0ZYIlk8hRA0+vdS2MOUUquoasmt64o4JXIx/fXPtX4d6FeFjtkOjJ6+JhdzijJ4ye9kg==
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@lezer/css/-/css-1.1.6.tgz#b887d8f66d3d7b9b61a4c614a0ce923e05eee6dc"
+  integrity sha512-/HhbnfXchRc995VdDH9TBzd1B2CO/A4uhOhELqGjd7Bymgc+tGlb0W9Vp5GA1Otq8Ef4JCXpuKmr4hH3aFny6A==
   dependencies:
     "@lezer/common" "^1.2.0"
     "@lezer/highlight" "^1.0.0"
