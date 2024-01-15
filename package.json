@@ -32,7 +32,7 @@
     "typescript": "^5.0.0"
   },
   "resolutions": {
-    "string-width": "4.2.3"
+    "string-width": "7.0.0"
   },
   "browserslist": {
     "production": [
