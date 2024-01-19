@@ -35,22 +35,24 @@ let 不允许在相同作用域内，重复声明同一个变量。
 ```js
 var count = 30
 
-let count = 40  // 会报错
+let count = 40 // 会报错
 ```
+
 ```js
 var count = 30
 
 if (condition) {
-  let count = 40  // 不会报错
+  let count = 40 // 不会报错
 }
 ```
+
 ### const 声明
 
 const 声明的变量只在块级作用域内有效，不存在变量提升。任何情况下，都不能修改 const 声明的变量。用 const 声明对象时，对象的引用不可修改，但是对象的属性可以修改。
 
 ## 临时死区
 
-Javascrpt 引擎在扫描代码发现变量声明时，要么将它们提升到作用域顶部（遇到 var 声明），要么将声明放到 TDZ 中（遇到 let 和 const 声明）。访问 TDZ 中的变量会触发运行时错误。只有执行过变量声明语句后，变量才会从 TDZ 中移出，然后方可访问。
+Javascript 引擎在扫描代码发现变量声明时，要么将它们提升到作用域顶部（遇到 var 声明），要么将声明放到 TDZ 中（遇到 let 和 const 声明）。访问 TDZ 中的变量会触发运行时错误。只有执行过变量声明语句后，变量才会从 TDZ 中移出，然后方可访问。
 
 ## 循环中的块级作用域绑定
 
@@ -60,13 +62,13 @@ Javascrpt 引擎在扫描代码发现变量声明时，要么将它们提升到�
 var funcs = []
 
 for (var i = 0; i < 10; i++) {
-  funcs.push(function() {
+  funcs.push(function () {
     console.log(i)
   })
 }
 
-funcs.forEach(function(func) {
-  func()  // 输出 10 次数字 10
+funcs.forEach(function (func) {
+  func() // 输出 10 次数字 10
 })
 ```
 
@@ -76,15 +78,17 @@ funcs.forEach(function(func) {
 var funcs = []
 
 for (var i = 0; i < 10; i++) {
-  funcs.push((function(value) {
-    return function() {
-      console.log(value)
-    }
-  })(i))
+  funcs.push(
+    (function (value) {
+      return function () {
+        console.log(value)
+      }
+    })(i)
+  )
 }
 
-funcs.forEach(function(func) {
-  func()  // 输出 0 到 9
+funcs.forEach(function (func) {
+  func() // 输出 0 到 9
 })
 ```
 
@@ -94,13 +98,13 @@ funcs.forEach(function(func) {
 var funcs = []
 
 for (let i = 0; i < 10; i++) {
-  funcs.push(function() {
+  funcs.push(function () {
     console.log(i)
   })
 }
 
-funcs.forEach(function(func) {
-  func()  // 输出 0 到 9
+funcs.forEach(function (func) {
+  func() // 输出 0 到 9
 })
 ```
 
@@ -110,7 +114,7 @@ funcs.forEach(function(func) {
 var funcs = []
 
 for (const i = 0; i < 10; i++) {
-  funcs.push(function() {
+  funcs.push(function () {
     console.log(i)
   })
 }
@@ -122,23 +126,30 @@ for (const i = 0; i < 10; i++) {
 
 ```js
 var funcs = [],
-    object = {
-      a: true,
-      b: true,
-      c: true
-    }
+  object = {
+    a: true,
+    b: true,
+    c: true,
+  }
 
 for (const key in object) {
-  funcs.push(function() {
+  funcs.push(function () {
     console.log(key)
   })
 }
 
-funcs.forEach(function(func) {
-  func()  // 输出 a、b、c
+funcs.forEach(function (func) {
+  func() // 输出 a、b、c
 })
 ```
 
 ## 全局块作用域绑定
 
 当 var 声明的变量在全局作用域中时，会成为 window 对象的属性。在全局作用域中使用 let 和 const 声明的变量，不会成为 window 对象的属性。
+
+## Differences
+
+- var declarations are globally scoped or function scoped while let and const are block scoped.
+- var variables can be updated and re-declared within its scope; let variables can be updated but not re-declared; const variables can neither be updated nor re-declared.
+- They are all hoisted to the top of their scope. But while var variables are initialized with undefined, let and const variables are not initialized.
+- While var and let can be declared without being initialized, const must be initialized during declaration.
