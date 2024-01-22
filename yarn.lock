@@ -1299,9 +1299,9 @@
     static-browser-server "1.0.3"
 
 "@codesandbox/sandpack-react@^2.1.11":
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.11.2.tgz#da6f0dfe4c91e7be7577797cbb2cb93109338fe0"
-  integrity sha512-Ni0nbGlT0g06Pq0ke6CcrupsWt/leAnfArWOUf7Yw2+ZhZFqYz1zlU9rT3xSTuUAkbHSh1gPC72G/5DN9xeyOg==
+  version "2.11.3"
+  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.11.3.tgz#7c04760e326535626bdb9d054e6282e69f6ee074"
+  integrity sha512-Syr/nb8bJYvlx6CoaXHlWDapVOp0ZJkXCZDWBCzKCR7Q1y7Bsx15LEuqSPzGQqJa/J8qyy/dRYlpKvPkZtOoFw==
   dependencies:
     "@codemirror/autocomplete" "^6.4.0"
     "@codemirror/commands" "^6.1.3"
@@ -1917,9 +1917,9 @@
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
 "@lezer/common@^1.0.0", "@lezer/common@^1.0.2", "@lezer/common@^1.1.0", "@lezer/common@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@lezer/common/-/common-1.2.0.tgz#f10493d12c4a196a02ff5fcf5695a516a4039aae"
-  integrity sha512-Wmvlm4q6tRpwiy20TnB3yyLTZim38Tkc50dPY8biQRwqE+ati/wD84rm3N15hikvdT4uSg9phs9ubjvcLmkpKg==
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@lezer/common/-/common-1.2.1.tgz#198b278b7869668e1bebbe687586e12a42731049"
+  integrity sha512-yemX0ZD2xS/73llMZIK6KplkjIjf2EvAHcinDi/TfJ9hS25G0388+ClHt6/3but0oOxinTcQHJLDXh6w1crzFQ==
 
 "@lezer/css@^1.0.0", "@lezer/css@^1.1.0":
   version "1.1.7"
@@ -1947,10 +1947,11 @@
     "@lezer/lr" "^1.0.0"
 
 "@lezer/javascript@^1.0.0":
-  version "1.4.12"
-  resolved "https://registry.yarnpkg.com/@lezer/javascript/-/javascript-1.4.12.tgz#f98e53e4bf6c96c268d1cd5f0a1524d63b639d94"
-  integrity sha512-kwO5MftUiyfKBcECMEDc4HYnc10JME9kTJNPVoCXqJj/Y+ASWF0rgstORi3BThlQI6SoPSshrK5TjuiLFnr29A==
+  version "1.4.13"
+  resolved "https://registry.yarnpkg.com/@lezer/javascript/-/javascript-1.4.13.tgz#e6459a000e1d7369db3e97b1764da63eeb5afe1b"
+  integrity sha512-5IBr8LIO3xJdJH1e9aj/ZNLE4LSbdsx25wFmGRAZsj2zSmwAYjx26JyU/BYOCpRQlu1jcv1z3vy4NB9+UkfRow==
   dependencies:
+    "@lezer/common" "^1.2.0"
     "@lezer/highlight" "^1.1.3"
     "@lezer/lr" "^1.3.0"
 
@@ -4117,9 +4118,9 @@ dot-prop@^6.0.1:
     is-obj "^2.0.0"
 
 dotenv@^16.0.3:
-  version "16.3.1"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.3.1.tgz#369034de7d7e5b120972693352a3bf112172cc3e"
-  integrity sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==
+  version "16.3.2"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.3.2.tgz#3cb611ce5a63002dbabf7c281bc331f69d28f03f"
+  integrity sha512-HTlk5nmhkm8F6JcdXvHIzaorzCoziNQT9mGxLPVXW8wJF1TiGSL60ZGB4gHWabHOaMmWmhvk2/lPHfnBiT78AQ==
 
 duplexer@^0.1.2:
   version "0.1.2"
