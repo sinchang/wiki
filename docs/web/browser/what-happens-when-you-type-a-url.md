@@ -21,11 +21,14 @@ The diagram below illustrates the steps.
 
 4. The browser sends an HTTP request to the server. The request looks like this:
 
+```
 𝘎𝘌𝘛 /𝘱𝘩𝘰𝘯𝘦 𝘏𝘛𝘛𝘗/1.1
 𝘏𝘰𝘴𝘵: 𝘦𝘹𝘢𝘮𝘱𝘭𝘦.𝘤𝘰𝘮
+```
 
 5. The server processes the request and sends back the response. For a successful response (the status code is 200). The HTML response might look like this:
 
+```
 𝘏𝘛𝘛𝘗/1.1 200 𝘖𝘒
 𝘋𝘢𝘵𝘦: 𝘚𝘶𝘯, 30 𝘑𝘢𝘯 2022 00:01:01 𝘎𝘔𝘛
 𝘚𝘦𝘳𝘷𝘦𝘳: 𝘈𝘱𝘢𝘤𝘩𝘦
@@ -35,5 +38,7 @@ The diagram below illustrates the steps.
 <𝘩𝘵𝘮𝘭 𝘭𝘢𝘯𝘨="𝘦𝘯">
 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥
 </𝘩𝘵𝘮𝘭>
+
+```
 
 6. The browser renders the HTML content.
