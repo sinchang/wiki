@@ -1,6 +1,6 @@
 # Pie Charts
 
-![](https://ieltsliz.com/wp-content/uploads/2014/11/ielts-pie-chart-comparison.pnghttps://ieltsliz.com/wp-content/uploads/2014/11/ielts-pie-chart-comparison.png)
+![](https://ieltsliz.com/wp-content/uploads/2014/11/ielts-pie-chart-comparison.png)
 
 ## Sample Answer: the comparison of different kinds of energy production of France in two years
 
