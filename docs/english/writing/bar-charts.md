@@ -1,4 +1,6 @@
-# Sample Answer: the expenditure of two countries on consumer goods in 2010
+# Bar Charts
+
+## Sample Answer: the expenditure of two countries on consumer goods in 2010
 
 ![](https://ieltsliz.com/wp-content/uploads/2015/01/Bar-Chart-Model.jpg)
 
@@ -10,7 +12,7 @@ In terms of cars, people in the UK spent about $450,000 on this as opposed to th
 
 On the other hand, the amount of money paid out on the remaining goods was higher in France. Above $350,000 was spent by the French on computers which was sightly more than the British who spent exactly $350,000. Neither of the countries spent much on perfume which accounted for $200,000 of expenditure in France but under $150,000 in the UK.
 
-# Vocabulary
+## Vocabulary
 
 ### Under
 
@@ -42,6 +44,6 @@ On the other hand, the amount of money paid out on the remaining goods was highe
 - well over
 - considerably more than
 
-# References
+## References
 
 - http://ieltsliz.com/ielts-model-bar-chart-band-score-9/
