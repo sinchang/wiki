@@ -2,9 +2,11 @@
 
 ## Sample Answer
 
+```
 Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.
 
 Discuss both these views and give your own opinion.
+```
 
 People have different views about whether children should be taught to be competitive or co-operative. While a spirit of competition can sometimes be useful in life, I believe that the ability to co-operate is more important.
 
