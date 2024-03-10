@@ -1,0 +1,31 @@
+# Vocabulary
+
+- ...experienced a marked increase in the proportion of...
+- the others saw a corresponding decline
+- significantly/significant
+- Overall, it can be seen that
+- the majority of the income
+- In detail
+- with regard to expenditures
+- respectively
+- It is measured in percentages
+- the percentage of GDP from IT was almost twice that of the Service Industry.
+- IT remained at a higher rate throughout this time.
+- it dropped slightly from 1994 to 1996.
+- increased quite sharply
+- It is evident that
+- throughout the whole time frame.
+- followed a fairly similar pattern
+- all remaining at (均保持在)
+- approximately (大约地)
+- In contrast
+- which far exceeded that of the other
+- The graph illustrate the number of books that were loaned out (借出) from ...
+- that fiction was by far the most popular type of book.
+- which represented the highest level of borrowing of the four.
+- followed very similar patterns
+- then gradually increasing to finish at 150.
+- there are seven stages in the process, beginning with the digging up of clay and culminating in delivery.
+- To begin
+- Following this
+- In the subsequent stage
