@@ -29,3 +29,7 @@
 - To begin
 - Following this
 - In the subsequent stage
+- but much less on clothing and entertainment.
+- a quarter (1/4, 25%)
+- spend the least
+- ranging between 11% and 15%.
