@@ -1,4 +1,6 @@
-# Causes of worldwide land degradation
+# Practice
+
+## Causes of worldwide land degradation
 
 The pie chart illustrates the four important reasons why agricultural land becomes less productive. The table compares the proportions of these causes affected the regions (North American, Europe and Oceania) during the 1990s.
 
