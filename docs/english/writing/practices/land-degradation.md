@@ -1,4 +1,4 @@
-## Task1: Causes of worldwide land degradation
+# Task1: Causes of worldwide land degradation
 
 ![](https://ieltsunlocked.files.wordpress.com/2018/09/task-1-mixed-land-degradation.jpg)
 
@@ -12,7 +12,7 @@ As we can seen from the table, Europe had total 23% land degraded which ranked f
 
 (score 5 by AI)
 
-### Sample Answer
+## Sample Answer
 
 The pie chart outlines the key factors as to why land used for agriculture produces less over time, while the table gives a breakdown of the effect these causes had on agricultural land in three regions during the 1990s.
 
@@ -21,3 +21,11 @@ Overall, over-grazing, deforestation, and over-cultivation are all significant c
 The pie chart shows that over-grazing by livestock is the most significant factor in land becoming degraded with 35% of land being affected in this way. However, this is closely followed by deforestation (30%) and over-cultivation (28%), with the remaining 7% being made up of other causes.
 
 With respect to the table, it is clear that in the 1990s the North American region had the lowest amount of degraded land at just 5% of this land, about two-thirds was damaged by over-cultivation, just under a third by over-grazing, and a minimal amount by deforestation. In contrast, at the same time almost a quarter (23%) of arable land in Europe was degraded. Unlike the American region, the main factor in Europe was deforestation, with 9.8% of total land affected in this way. Moreover, over-cultivation (7.7%) and over-grazing (5.5%) were also majorly responsible for the deterioration of land quality. In the final region, Oceania, the main cause of land degradation was clearly over-grazing with 11.3% of land being affected by this out of a total of 13% of land degraded in total. Conversely, over-cultivation appeared to play no role in this part of the world, while deforestation affected only a relatively small amount (1.7%) (250 words)
+
+## Official Sample Answer
+
+The pie chart shows that there are four main causes of farmland becoming degraded in the world today. Globally, 65% of degradation is caused by too much animal grazing and tree clearance, constituting 35% and 30% respectively. A further 28% of global degradation is due to over-cultivation of crops. Other causes account for only 7% collectively.
+
+These causes affected different regions differently in the 1990s, with Europe having as much as 9.8% of degradation due to deforestation, while the impact of this on Oceania and North America was minimal, with only 1.7% and 0.2% of land affected respectively. Europe, with the highest overall percentage of land degraded (23%), also suffered from over-cultivation (7.7%) and over-grazing (5.5%). In contrast, Oceania had 13% of degraded farmland and this was mainly due to over-grazing (11.3%). North America had a lower proportion of degraded land at only 5%, and the main causes of this were over-cultivation (3.3%) and, to a lesser extent, over-grazing (1.5%).
+
+Overall, it is clear that Europe suffered more from farmland degradation than the other regions, and the main causes there were deforestation and over-cultivation.
