@@ -34,7 +34,8 @@
 - spend the least
 - ranging between 11% and 15%.
 - it decreased steadily to a level of 70%
-- after digging to a low level of 40%
+- after dipping to a low level of 40%
 - rate gradually increased to 60% by 2010
 - climbed rapidly .... it had reached 45%
 - it was very slow, rising from about 2% to around 8% over the period
+- with the remaining
