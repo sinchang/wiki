@@ -20,4 +20,14 @@ On the other hand, the school environment is designed to foster holistic develop
 
 In conclusion, I am of the opinion that schools serve as an ideal setting for children to acquire knowledge and essential life skills. Quality education provided in schools is integral to the holistic development of children, equipping them with the tools needed to navigate societal expectations and contribute positively to the community.
 
-## Sample Answer
+## Sample
+
+It is important to encourage children to become good members of society. This means things like being a law-biding citizen, contributing to your community and being prepared to work and study hard. But who is best placed to do this?
+
+One argument is that parents should teach children these things. They are, after all, with their children for long periods of time and they generally know their children inside-out. This makes them ideally placed to discuss behaviour with their children and also their reaction to events they might see in the media. For example, if a child is unkind to another person, or if they see a news story about a political leader clearly lying on television, parents can explain why this is unacceptable behabiour. In so doing children will learn the difference between right and wrong and so they will be less likely to do the same thing themselves. Furthermore, parents can lead by example, showing their children how to be a good citizen through their actions. They could, for instance, get involved in voluntary work at a local food bank, and by doing this, their children will actually see why it is important to give back to their community.
+
+However, an alternative view is that schools should take responsibility for this crucial part of a child's education. Teachers, unlike parents, are usually well trained to deliver important life lessons and, armed with good resources, they can quickly and effectively ensure that children learn what it is to be a good citizen. Indeed, many schools already do this; In the United Kingdom, for example, many schools now teach personal and social education as part of the school curriculum, and, at high school level, this subject includes the obligations of citizenship, and the importance of contributing towards one's own community through voluntary work.
+
+Personally, I feel that schools and parents should be jointly responsible for teaching children to become good citizen. Parents are well-placed to lead by example and through discussion, while teachers are able to do the same thing in a more explicit way as part of the school curriculum. In other words, it should be a team effort.
+
+(From https://ieltscharlie.com/ielts-essay-good-members-of-society/)

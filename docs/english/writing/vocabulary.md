@@ -41,3 +41,4 @@
 - with the remaining
 - to a lesser extent
 - A further (另外)
+- curriculum (web.课程)
