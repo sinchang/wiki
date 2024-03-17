@@ -1,4 +1,6 @@
-# Goods transported in UK
+# Task1: Goods transported in UK
+
+![](https://www.ielts-mentor.com/images/writingsamples/goods-transported-in-uk.png)
 
 The graph illustrates the number of goods transported by four types of transport in the UK from 1974 to 2002.
 
