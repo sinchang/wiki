@@ -45,3 +45,5 @@
 - smaller/larger proportion/share
 - twice/10 times as many as
 - there were corresponding drops in expenditure
+- the gap between them shrank to around 1%
+- While IT remained the larger of the two sectors
