@@ -42,3 +42,6 @@
 - to a lesser extent
 - A further (另外)
 - curriculum (web.课程)
+- smaller/larger proportion/share
+- twice/10 times as many as
+- there were corresponding drops in expenditure
