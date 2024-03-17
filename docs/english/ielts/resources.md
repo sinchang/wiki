@@ -6,4 +6,4 @@
 - [IELTS-Simon-Writing-Task1-Academic](https://www.youtube.com/playlist?list=PLucRN-INUOaowUuFSaFQ2Yj0qGu2B23ws)
 - [IELTS buddy](https://www.ieltsbuddy.com)
 - [Preparing learners for Task 1 on the IELTS Academic Writing test](https://ielts.org/news-and-insights/preparing-learners-for-task-1-on-the-ielts-academic-writing-test)
-- [IELTS Charlie]https://ieltscharlie.com
+- [IELTS Charlie](https://ieltscharlie.com)
