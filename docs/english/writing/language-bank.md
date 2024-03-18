@@ -91,3 +91,66 @@
 - The X is made/done...
 - After X has been completed/finished
 - ...Y is begun/initiated/started
+
+## Writing Task 2
+
+### Presenting an impartial opinion
+
+- It is often argued/said that
+- It is generally agreed that
+- Some/Many people believe/say/think/feel/argue that
+
+### Outlining contrasting views
+
+- Although some people believe that... it could also be argued that...
+- While/Whereas it may be true that... it is equally plausible to suggest that
+- On the one hand..., but on the other hand
+- However/nevertheless/despite (the fact that)
+
+### Refuting and argument
+
+- Although some believe that...we should consider
+- Critics may say that... However
+- It could be argued that...; however, it is difficult to accept this as...
+- While it may/could be argued that...the truth of the matter is...
+
+### Describing cause and effect
+
+- Consequently
+- As a result
+- This means that
+
+### Providing supporting evidence
+
+- In my experience
+- A good example of this
+- For instance
+- But this is not the case for...
+- ...highlights the point
+
+### Attributing cause
+
+- Owing to
+- On account of
+- Due to
+
+### Linking arguments/reasons
+
+- Furthermore
+- Moreover
+- In addition
+- For one thing..., for another thing
+
+### Giving a personal opinion
+
+- In my opinion
+- I (generally/broadly) agree that
+- I think it's reasonable to argue that
+- I tend to think that
+
+### Concluding
+
+- In short/In conclusion/In summary
+- To conclude/To summarise/To sum up
+- Overall, I think the most important thing is
+- As we have seen
