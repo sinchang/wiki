@@ -1,4 +1,6 @@
-# 3.20
+# Copy example answer
+
+## 3.20
 
 The chart illustrates the amount of money spent on five consume goods (cars, computers, books, perfume and cameras) in France and the UK in 2010. Units are measured in pounds sterling.
 
