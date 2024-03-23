@@ -47,3 +47,4 @@
 - there were corresponding drops in expenditure
 - the gap between them shrank to around 1%
 - While IT remained the larger of the two sectors
+- Overall, the process consists of X stages, beginning with... and ending up with...  `
