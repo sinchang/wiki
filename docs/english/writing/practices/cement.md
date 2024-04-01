@@ -1,4 +1,6 @@
-# Cement production
+# Task1: Cement production
+
+![](https://edubenchmark.com/blog/wp-content/uploads/2018/08/IELTS-Report-18.webp)
 
 ## Sample Answer
 
