@@ -93,7 +93,6 @@ const config = {
             label: 'Wiki',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/projects', label: 'Projects', position: 'left' },
           {
             href: 'https://github.com/sinchang/my-contributions',
             label: 'Open Source Contributions',
