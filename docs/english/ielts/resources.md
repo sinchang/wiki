@@ -7,3 +7,5 @@
 - [IELTS buddy](https://www.ieltsbuddy.com)
 - [Preparing learners for Task 1 on the IELTS Academic Writing test](https://ielts.org/news-and-insights/preparing-learners-for-task-1-on-the-ielts-academic-writing-test)
 - [IELTS Charlie](https://ieltscharlie.com)
+- [Essay Structures](https://ieltscompositions.wordpress.com/essay-structures/)
+- [Model Answers](https://ieltscompositions.wordpress.com/model-answers/)
