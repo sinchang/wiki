@@ -1325,9 +1325,9 @@
     static-browser-server "1.0.3"
 
 "@codesandbox/sandpack-react@^2.1.11":
-  version "2.13.8"
-  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.13.8.tgz#6ada2c9809bc0bfef49b54e0f2ad05a87db591cd"
-  integrity sha512-+/OnUyrNidSzDDiek7drf8UUTJJl4Cd05dCG3BK51OBKoBCieRmsaUlIM3CU2nFDVAgvcSp9Cmu2CXQmwuJ58w==
+  version "2.13.10"
+  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-react/-/sandpack-react-2.13.10.tgz#2488c41df6e48a47870348bc0856120ce6c29795"
+  integrity sha512-0ipH4gbMqS/o4tyv7pApXehklTqEJi4qNNtKuL6UJd7Tc05fHLqlbEqG8VQ0AkrJ+e+CEL4R26B0k7WqLMLiIg==
   dependencies:
     "@codemirror/autocomplete" "^6.4.0"
     "@codemirror/commands" "^6.1.3"
@@ -1975,9 +1975,9 @@
     "@lezer/lr" "^1.0.0"
 
 "@lezer/javascript@^1.0.0":
-  version "1.4.14"
-  resolved "https://registry.yarnpkg.com/@lezer/javascript/-/javascript-1.4.14.tgz#d94bf2b6338c1c458e1e9f79f2caf5063f346c3e"
-  integrity sha512-GEdUyspTRgc5dwIGebUk+f3BekvqEWVIYsIuAC3pA8e8wcikGwBZRWRa450L0s8noGWuULwnmi4yjxTnYz9PpA==
+  version "1.4.15"
+  resolved "https://registry.yarnpkg.com/@lezer/javascript/-/javascript-1.4.15.tgz#e248c0e62ffdb913b5fcfff97b0b60e6f098c39c"
+  integrity sha512-B082ZdjI0vo2AgLqD834GlRTE9gwRX8NzHzKq5uDwEnQ9Dq+A/CEhd3nf68tiNA2f9O+8jS1NeSTUYT9IAqcTw==
   dependencies:
     "@lezer/common" "^1.2.0"
     "@lezer/highlight" "^1.1.3"
